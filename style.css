@@ -11,15 +11,17 @@ img {
   margin: 10px 50px 25px 50px;
 }
 
-  table, th, td {
+table,
+th,
+td {
   border: 1px solid black;
 }
 
 .table {
-  font-family: Verdana;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-weight: bold;
 }
 
 .table2 {
-  font-family: Verdana;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
